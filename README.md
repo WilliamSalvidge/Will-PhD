@@ -6,4 +6,8 @@ Again more comments
 
 Another line
 
+<<<<<<< HEAD
 Yet another line
+=======
+Yet YEt Yet
+>>>>>>> master
